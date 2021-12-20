@@ -1,0 +1,16 @@
+<svg id="outline-router-24px" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g id="Bounding_Boxes">
+    <path id="Path_2946" data-name="Path 2946" d="M0,0H15V15H0Z" fill="none"/>
+    <path id="Path_2947" data-name="Path 2947" d="M0,0H15V15H0Z" fill="none"/>
+  </g>
+  <g id="Outline" transform="translate(2 2)">
+    <g id="Group_238" data-name="Group 238">
+      <path id="Path_2948" data-name="Path 2948" d="M14.333,3.8a4.169,4.169,0,0,1,2.8,1.133l.533-.533A4.668,4.668,0,0,0,11,4.4l.533.533A4.169,4.169,0,0,1,14.333,3.8Z" transform="translate(-6.667 -3)"/>
+      <path id="Path_2949" data-name="Path 2949" d="M12.7,6.233l.533.533a2.417,2.417,0,0,1,3.333,0l.533-.533a3.06,3.06,0,0,0-4.4,0Z" transform="translate(-7.233 -3.767)"/>
+      <path id="Path_2950" data-name="Path 2950" d="M12.778,11.667H11.556V9H10.333v2.667H4.222A1.285,1.285,0,0,0,3,13v2.667A1.285,1.285,0,0,0,4.222,17h8.556A1.285,1.285,0,0,0,14,15.667V13A1.285,1.285,0,0,0,12.778,11.667Zm0,4H4.222V13h8.556Z" transform="translate(-3 -6)"/>
+      <rect id="Rectangle_163" data-name="Rectangle 163" width="1" height="1" transform="translate(1.818 8.182)"/>
+      <rect id="Rectangle_164" data-name="Rectangle 164" width="1.333" height="1.333" transform="translate(3.927 7.854)"/>
+      <rect id="Rectangle_165" data-name="Rectangle 165" width="1" height="1" transform="translate(6.364 8.182)"/>
+    </g>
+  </g>
+</svg>

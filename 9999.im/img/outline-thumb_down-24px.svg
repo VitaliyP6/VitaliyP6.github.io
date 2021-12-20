@@ -1,0 +1,12 @@
+<svg id="outline-thumb_down-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Bounding_Boxes">
+    <path id="Path_2512" data-name="Path 2512" d="M24,0H0V24H24Z" fill="none"/>
+    <path id="Path_2513" data-name="Path 2513" d="M24,0H0V24H24Z" fill="none"/>
+  </g>
+  <g id="Outline" transform="translate(1 3)">
+    <g id="Group_114" data-name="Group 114">
+      <path id="Path_2514" data-name="Path 2514" d="M3,3h9a1.987,1.987,0,0,1,1.84,1.22l3.02,7.05A1.976,1.976,0,0,1,17,12v2a2.006,2.006,0,0,1-2,2H8.69l.95,4.57.03.32a1.505,1.505,0,0,1-.44,1.06L8.17,23,1.58,16.41A1.987,1.987,0,0,1,1,15V5A2.006,2.006,0,0,1,3,3ZM3,15l4.34,4.34L6,14h9V12L12,5H3Z" transform="translate(5 -3)" fill="#9a9a9a"/>
+      <rect id="Rectangle_64" data-name="Rectangle 64" width="4" height="12" fill="#9a9a9a"/>
+    </g>
+  </g>
+</svg>

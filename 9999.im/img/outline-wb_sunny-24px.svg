@@ -1,0 +1,18 @@
+<svg id="outline-wb_sunny-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Bounding_Boxes">
+    <path id="Path_3163" data-name="Path 3163" d="M0,0H24V24H0Z" fill="none"/>
+  </g>
+  <g id="Outline" transform="translate(1 0.55)">
+    <g id="Group_292" data-name="Group 292">
+      <path id="Path_3164" data-name="Path 3164" d="M6.76,4.84,4.96,3.05,3.55,4.46,5.34,6.25Z" transform="translate(-1 -0.55)" fill="#fff"/>
+      <rect id="Rectangle_196" data-name="Rectangle 196" width="3" height="2" transform="translate(0 9.95)" fill="#fff"/>
+      <rect id="Rectangle_197" data-name="Rectangle 197" width="2" height="2.95" transform="translate(10)" fill="#fff"/>
+      <rect id="Rectangle_198" data-name="Rectangle 198" width="1.99" height="2.53" transform="translate(18.04 2.495) rotate(45)" fill="#fff"/>
+      <path id="Path_3165" data-name="Path 3165" d="M17.24,18.16l1.79,1.8,1.41-1.41-1.8-1.79Z" transform="translate(-1 -0.55)" fill="#fff"/>
+      <rect id="Rectangle_199" data-name="Rectangle 199" width="3" height="2" transform="translate(19 9.95)" fill="#fff"/>
+      <path id="Path_3166" data-name="Path 3166" d="M12,5.5a6,6,0,1,0,6,6A6,6,0,0,0,12,5.5Zm0,10a4,4,0,1,1,4-4A4,4,0,0,1,12,15.5Z" transform="translate(-1 -0.55)" fill="#fff"/>
+      <rect id="Rectangle_200" data-name="Rectangle 200" width="2" height="2.95" transform="translate(10 18.95)" fill="#fff"/>
+      <path id="Path_3167" data-name="Path 3167" d="M3.55,18.54l1.41,1.41,1.79-1.8L5.34,16.74Z" transform="translate(-1 -0.55)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
